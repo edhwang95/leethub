@@ -26,16 +26,23 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/toezilla/leethub/tree/main/0001-two-sum/) | Easy |
+| [1656-design-an-ordered-stream](https://github.com/toezilla/leethub/tree/main/1656-design-an-ordered-stream/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/toezilla/leethub/tree/main/0001-two-sum/) | Easy |
+| [1656-design-an-ordered-stream](https://github.com/toezilla/leethub/tree/main/1656-design-an-ordered-stream/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1603-design-parking-system](https://github.com/toezilla/leethub/tree/main/1603-design-parking-system/) | Easy |
+| [1656-design-an-ordered-stream](https://github.com/toezilla/leethub/tree/main/1656-design-an-ordered-stream/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1603-design-parking-system](https://github.com/toezilla/leethub/tree/main/1603-design-parking-system/) | Easy |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1656-design-an-ordered-stream](https://github.com/toezilla/leethub/tree/main/1656-design-an-ordered-stream/) | Easy |
 <!---LeetCode Topics End-->
