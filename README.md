@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/toezilla/leethub/tree/main/0001-two-sum/) | Easy |
+| [0704-binary-search](https://github.com/toezilla/leethub/tree/main/0704-binary-search/) | Easy |
 | [1656-design-an-ordered-stream](https://github.com/toezilla/leethub/tree/main/1656-design-an-ordered-stream/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/toezilla/leethub/tree/main/1672-richest-customer-wealth/) | Easy |
 ## Hash Table
@@ -50,4 +51,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1672-richest-customer-wealth](https://github.com/toezilla/leethub/tree/main/1672-richest-customer-wealth/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0704-binary-search](https://github.com/toezilla/leethub/tree/main/0704-binary-search/) | Easy |
 <!---LeetCode Topics End-->
