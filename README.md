@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/toezilla/leethub/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0412-fizz-buzz](https://github.com/toezilla/leethub/tree/main/0412-fizz-buzz/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -33,10 +34,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/toezilla/leethub/tree/main/0001-two-sum/) | Easy |
+| [0208-implement-trie-prefix-tree](https://github.com/toezilla/leethub/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [1656-design-an-ordered-stream](https://github.com/toezilla/leethub/tree/main/1656-design-an-ordered-stream/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/toezilla/leethub/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [1603-design-parking-system](https://github.com/toezilla/leethub/tree/main/1603-design-parking-system/) | Easy |
 | [1656-design-an-ordered-stream](https://github.com/toezilla/leethub/tree/main/1656-design-an-ordered-stream/) | Easy |
 ## Counting
@@ -55,4 +58,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0704-binary-search](https://github.com/toezilla/leethub/tree/main/0704-binary-search/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/toezilla/leethub/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 <!---LeetCode Topics End-->
