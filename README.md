@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/toezilla/leethub/tree/main/0208-implement-trie-prefix-tree/) | Medium |
+| [0933-number-of-recent-calls](https://github.com/toezilla/leethub/tree/main/0933-number-of-recent-calls/) | Easy |
 | [1603-design-parking-system](https://github.com/toezilla/leethub/tree/main/1603-design-parking-system/) | Easy |
 | [1656-design-an-ordered-stream](https://github.com/toezilla/leethub/tree/main/1656-design-an-ordered-stream/) | Easy |
 ## Counting
@@ -49,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0933-number-of-recent-calls](https://github.com/toezilla/leethub/tree/main/0933-number-of-recent-calls/) | Easy |
 | [1656-design-an-ordered-stream](https://github.com/toezilla/leethub/tree/main/1656-design-an-ordered-stream/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -62,4 +64,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/toezilla/leethub/tree/main/0208-implement-trie-prefix-tree/) | Medium |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0933-number-of-recent-calls](https://github.com/toezilla/leethub/tree/main/0933-number-of-recent-calls/) | Easy |
 <!---LeetCode Topics End-->
