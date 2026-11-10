@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/toezilla/leethub/tree/main/0020-valid-parentheses/) | Easy |
 | [0208-implement-trie-prefix-tree](https://github.com/toezilla/leethub/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0412-fizz-buzz](https://github.com/toezilla/leethub/tree/main/0412-fizz-buzz/) | Easy |
 ## Simulation
@@ -68,4 +69,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0933-number-of-recent-calls](https://github.com/toezilla/leethub/tree/main/0933-number-of-recent-calls/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/toezilla/leethub/tree/main/0020-valid-parentheses/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/toezilla/leethub/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
