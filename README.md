@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/toezilla/leethub/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/toezilla/leethub/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0088-merge-sorted-array](https://github.com/toezilla/leethub/tree/main/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/toezilla/leethub/tree/main/0217-contains-duplicate/) | Easy |
 | [0704-binary-search](https://github.com/toezilla/leethub/tree/main/0704-binary-search/) | Easy |
 | [1656-design-an-ordered-stream](https://github.com/toezilla/leethub/tree/main/1656-design-an-ordered-stream/) | Easy |
@@ -83,9 +84,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/toezilla/leethub/tree/main/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/toezilla/leethub/tree/main/0217-contains-duplicate/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/toezilla/leethub/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0088-merge-sorted-array](https://github.com/toezilla/leethub/tree/main/0088-merge-sorted-array/) | Easy |
 <!---LeetCode Topics End-->
